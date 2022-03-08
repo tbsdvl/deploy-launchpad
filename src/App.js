@@ -1,5 +1,6 @@
 import React from "react";
 import styles from "./styles/app.module.css";
+import img from "./images/launchpad_logo.png";
 // Test
 const App = () => {
 
@@ -13,7 +14,7 @@ const App = () => {
             </section>
             <section id="logo">
                 <div className="d-flex flex-column justify-content-center align-items-center p-2 bg-light">
-                    <img alt="logo" src="images/launchpad_logo.png" />
+                    <img alt="logo" src={img} />
                 </div>
             </section>
         </div>

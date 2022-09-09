@@ -37,7 +37,7 @@ Be sure to exclude the curly braces around the names of the github username and 
 # Description
 react-launchpad is a simple toolchain for building React JS applications with React-Bootstrap.
 
-react-launchpad acts a foundation for scalable React JS projects & applications. 
+react-launchpad lets you experiment with writing front-end applications in React, you can use it to start small projects. 
 
 It includes a few essential npm dependencies like loaders for Bootstrap's CSS styles, making http requests in React, and writing test suites for your application's code.
 
